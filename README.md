@@ -1,18 +1,20 @@
 # style.css
- h1{#ffe6e6
+ h1{
 
-  font-family: verdana;
-  color:pink;
+ font-family: verdana;
+ color: #ffcccc;
 }
 
- h2{#ccffff
-  font-family: verdana;
-  color:blue;
+h2{
+ font-family: verdana;
+ color: #ffe6cc;
 }
 
 p{
- font-family: verdana;
+font-family: #ffffcc;
 }
 
 body {
-    background-color: #33ccff;
+   background-color: #d9ffcc;
+}
+
